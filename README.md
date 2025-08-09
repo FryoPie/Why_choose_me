@@ -4,7 +4,7 @@
 
 For a prestigious company like Synopsys, the R&D Engineering team is known for innovation, precision, and high-impact contributions to the semiconductor industry. I believe my academic background, technical skill set, and hands-on project experience align perfectly with the expectations of this role.
 
-I am **Aayush Gautam**, a final-year B.Tech (ECE, 2026) student from **UIET, Panjab University, Chandigarh**. My passion lies in **digital design, computer architecture, and semiconductor technology**, with a strong foundation in **C/C++** and **Verilog**, and a working knowledge of **Linux** environments.
+I am **Aayush Gautam**, a final-year B.E. (ECE, 2026) student from **UIET, Panjab University, Chandigarh**. My passion lies in **digital design, computer architecture, and semiconductor technology**, with a strong foundation in **C/C++** and **Verilog**, and a working knowledge of **Linux** environments.
 
 ## Technical Skills & Tools
 - **Programming & HDL**: C, C++, Verilog, SystemVerilog
