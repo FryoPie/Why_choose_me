@@ -1,4 +1,4 @@
-# Why_choose_me
+#Why Choose Me?
 
 ## Why am I a good fit for this role?
 
@@ -6,14 +6,14 @@ For a prestigious company like Synopsys, the R&D Engineering team is known for i
 
 I am **Aayush Gautam**, a final-year B.Tech (ECE, 2026) student from **UIET, Panjab University, Chandigarh**. My passion lies in **digital design, computer architecture, and semiconductor technology**, with a strong foundation in **C/C++** and **Verilog**, and a working knowledge of **Linux** environments.
 
-### Technical Skills & Tools
+## Technical Skills & Tools
 - **Programming & HDL**: C, C++, Verilog, SystemVerilog
 - **Digital Design**: Computer architecture concepts, RTL design, synthesis, simulation
 - **EDA Tools**: Cadence Virtuoso, Mentor Graphics, Xilinx Vivado
 - **Semiconductor Process Simulation**: TCAD Athena
 - **Linux**: Comfortable navigating, compiling, and running design workflows in Linux-based systems
 
-### Relevant Experience
+## Relevant Experience
 - **Semiconductor Laboratory, Mohali**  
   Worked with TCAD Athena for process/device simulation and characterization, gaining insights into semiconductor fabrication workflows.
 
